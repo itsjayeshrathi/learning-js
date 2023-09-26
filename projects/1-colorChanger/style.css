@@ -1,0 +1,50 @@
+html {
+    margin: 0;
+}
+
+body {
+    font-family: Roboto, Arial;
+    background-color: #212121;
+    color: #fff;
+}
+
+span {
+    display: block;
+}
+
+.canvas {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button-span {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    width: 100px;
+    height: 100px;
+    border: solid rgb(22, 22, 22) 1px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#grey {
+    background: grey;
+}
+
+#white {
+    background: white;
+}
+
+#blue {
+    background: blue;
+}
+
+#yellow {
+    background: yellow;
+}

@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap');
+
+body {
+    background-color: #333a45;
+    color: #f44c7f;
+    font-family: Roboto, Arial;
+    text-align: center;
+
+}
+
+h1 {
+    background-color: #EEEEEE;
+    font-weight: 500;
+    padding: 15px;
+    margin: 30px 30px 30px 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+#top {
+    font-size: larger;
+}
+#guessField
+{
+    background-color: #333a45; 
+    color: #EEEEEE;
+    margin-left: 8px;
+    padding: 8px;
+    border: solid #f44c7f 2px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#subt {
+    background-color: #EEEEEE;
+    color: #f44c7f;
+    font-weight: bold;
+    padding: 8px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.resultParas
+{
+    margin-top: 50px;
+    font-size: larger;
+    font-weight: 500;
+}
